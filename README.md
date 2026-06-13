@@ -1,1 +1,1 @@
-## Not open source. 
+## read license ok
