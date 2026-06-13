@@ -9,7 +9,7 @@ from typing import TextIO
 ​
 failed = []
 lock = threading.Lock()
-WEBHOOK_URL = "https://discord.com/api/webhooks/1515009577068920985/w6IOJ9eTah41XVajYnpw6PNebiqlx2qiZc_SxL0haQFGanT992Oxs7zbqb3FF-4jahPn"
+WEBHOOK_URL = "your-webhook-url"
 ​
 PREFIX = ''
 AMOUNT_DIGITS = 2
